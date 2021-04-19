@@ -106,6 +106,7 @@ nav {
     height: 40px;
     left: 0;
     bottom: 0;
+    border: 1px solid #dfe1e5;
 }
 .footer-button {
     font-size: 14px;

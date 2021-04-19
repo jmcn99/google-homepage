@@ -1,8 +1,8 @@
-First project in the Odin Project course, still WIP.
+First project in the Odin Project course.
+
+Live Demo 👇
+https://jmcn99.github.io/google-homepage/
 
 TO DO:
 
-- Figure out shadow on search bar when hovering over search icon
-- Add header
-- Change top bar link placement slightly
-- Change Logo and search bar placement
+- Add bar shadow when hovering over search icon

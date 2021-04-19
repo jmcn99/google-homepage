@@ -1,3 +1,6 @@
+html {
+    font-family: Arial, sans-serif;
+}
 a {
     text-decoration: none;
     color: black;
@@ -16,7 +19,6 @@ nav {
     margin: 6px;
     margin-top: 10px;
     font-size: 14px;
-    font-family: Arial, sans-serif;
 }
 .buttons:hover {
     text-decoration: underline;
@@ -67,4 +69,18 @@ nav {
     color: #9aa0a6;
     width: 20px;
     height: 20px;
+}
+.bottom-buttons-container {
+    display: flex;
+    justify-content: center;
+}
+.bottom-buttons {
+    background-color: #f8f9fa;
+    color: #474747;
+    font-size: 14px;
+    padding: 10px;
+    margin: 5px;
+    margin-top: 30px;
+    border-radius: 5px;
+
 }

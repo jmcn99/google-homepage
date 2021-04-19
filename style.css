@@ -1,0 +1,70 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+#github {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-top: 4px;
+    margin-left: 8px;
+}
+nav {
+    height: 60px;
+}
+.buttons {
+    margin: 6px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+.buttons:hover {
+    text-decoration: underline;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 4em;
+    
+}
+.googleimg {
+    width: 272px;
+    height: 92px;
+}
+.search {
+    width: 584px;
+    height: 44px;
+    margin-top: 25px;
+    border-radius: 25px;
+}
+.search-container {
+    display: flex;
+    justify-content: center;
+}
+.input {
+    font-size: 16px;
+    position: relative;
+    outline: none;
+    padding: 12px;
+    padding-left: 50px;
+    border-radius: 25px;
+    border: 1px solid #dfe1e5;
+    width: 522px;
+}
+.input:hover {
+    box-shadow: 0px 0px 5px 2px lightgray;
+    background-color: white;
+}
+#search-icon:hover > .input {
+    box-shadow: 0px 0px 5px 2px lightgray;
+    background-color: white;
+}
+#search-icon {
+    margin-left: 15px;
+    margin-top: 13px;
+    z-index: 1;
+    position: absolute;
+    color: #9aa0a6;
+    width: 20px;
+    height: 20px;
+}
